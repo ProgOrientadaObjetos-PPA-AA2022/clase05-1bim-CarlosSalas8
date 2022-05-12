@@ -33,6 +33,7 @@ public class Ejecutor {
                 persona1.obtenerNombre(), persona1.obtenerCedula(),
                 persona1.obtenerBarrio().obtenerNombre());
                 
-      
+    
     }
 }
+
